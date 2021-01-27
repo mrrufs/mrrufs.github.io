@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
- 1. [Spotify Analytics Project](final_v2)
+ 1. [Spotify Analytics Project](mrrufs.github.io/final_v2)
 
 ### Markdown
 
