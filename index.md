@@ -5,7 +5,8 @@ Here are some projects I've been working on:
 This is a data science project to analyze trends in the Top 100 songs between 2015 and 2019. 
 Mainly using pandas in Python for data analysis.
 
-### [Poker](https://github.com/mrrufs/Poker) _in progress_
+### [Poker](https://github.com/mrrufs/Poker) 
+(_in progress_)
 This is a toy project to make a working poker game. Uses Java.
 
 ### [My repl.it](https://repl.it/@mrrufs)
