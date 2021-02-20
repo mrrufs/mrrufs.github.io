@@ -11,8 +11,11 @@ Here are some projects I've been working on:
   <dd> Contains some coding challenge solutions to the final projects from [FreeCodeCamp](https://www.freecodecamp.org/) courses. 
   <br>Currently contains my solutions for the [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/#scientific-computing-with-python-projects) </dd>
 </dl>
+
 ---
+
 ## Java
+
 <dl> 
   <dt><a href="https://github.com/mrrufs/Poker"> Poker </a> </dt>
   <dd>in progress
