@@ -17,9 +17,9 @@ Here are some projects I've been working on:
 ## Java
 
 <dl> 
-  <dt><a href="https://github.com/mrrufs/Poker"> Poker </a> </dt>
+  <dt><a href="https://github.com/mrrufs/Poker">Poker</a></dt>
   <dd><i>in progress</i>
-<br>This is a toy project to make a working poker game. 
+  <br>This is a toy project to make a working poker game. 
 <br></dd>
 </dl>
 
