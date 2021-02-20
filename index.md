@@ -18,7 +18,7 @@ Here are some projects I've been working on:
 
 <dl> 
   <dt><a href="https://github.com/mrrufs/Poker"> Poker </a> </dt>
-  <dd>in progress
+  <dd><i>in progress</i>
 <br>This is a toy project to make a working poker game. 
 <br></dd>
 </dl>
