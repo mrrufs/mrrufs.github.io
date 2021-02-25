@@ -8,7 +8,7 @@ Here are some projects I've been working on:
   <dd>This is a data science project to analyze trends in the Top 100 songs between 2015 and 2019. 
   <br>Mainly using pandas in Python for data analysis.</dd>
   <dt> <a href="https://repl.it/@mrrufs">My repl.it</a> </dt>
-  <dd> Contains some coding challenge solutions to the final projects from <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> courses. 
+  <dd> Contains coding challenge solutions to final projects from <a href="https://www.freecodecamp.org/">FreeCodeCamp</a> courses. 
   <br>Currently contains my solutions for the <a href = "https://www.freecodecamp.org/learn/scientific-computing-with-python/#scientific-computing-with-python-projects">Scientific Computing with Python</a> </dd>
 </dl>
 
